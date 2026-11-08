@@ -64,14 +64,6 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** enfocado en aprender y ap
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fraancisjo10&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraancisjo10&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
-</div>
-
----
 
 <p align="center">
   <i>"El código es como la pintura: si lo fuerzas, se nota. Hazlo limpio y claro."</i>
