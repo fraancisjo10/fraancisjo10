@@ -65,3 +65,14 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** enfocado en aprender y ap
   </a>
   <a href="https://github.com" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+## 📌 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| ☕ **[Java & Algoritmos](https://github.com/fraancisjo10/Java)** | Ejercicios y programas en Java sobre algoritmos, matrices y manipulación de ficheros. | `Java` `Algoritmos` `Matrices` |
+| 🌐 **[Prácticas Web DAW](https://github.com/fraancisjo10)** | Proyectos y ejercicios de maquetación web con HTML5 y CSS3. | `HTML5` `CSS3` `Web` |
+
+<p align="center">
+  <i>"El código es como la pintura: si lo fuerzas, se nota. Hazlo limpio y claro."</i>
+</p>
