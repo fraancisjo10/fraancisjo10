@@ -28,8 +28,8 @@
 desarrollador: Francisco
 estudios: Desarrollo de Aplicaciones Web (DAW)
 ubicacion: Málaga, España
-enfocado_en: Código limpio, algoritmos y maquetación web moderna
-herramienta_principal: VS Code & Linux Ubuntu Terminal
+enfocado en: Código limpio, algoritmos y maquetación web moderna
+herramienta principal: VS Code , Java & Linux Ubuntu Terminal
 
 ### Herramientas & Entornos
 <p>
