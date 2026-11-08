@@ -1,17 +1,23 @@
 # Hi there, I'm Francisco 👋
 <h1 align="center">Hi there, I'm Francisco 👋</h1>
 
-<p align="center">
-  <b>Estudiante de Desarrollo de Aplicaciones Web (DAW)</b><br>
-  <i>Apasionado por la programación, el código limpio y el desarrollo web</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-DAW-38BDF8?style=for-the-badge" alt="DAW" />
-  <img src="https://img.shields.io/badge/Ubicación-Málaga-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Málaga" />
-  <img src="https://img.shields.io/badge/Status-Open_to_learn-2EA043?style=for-the-badge" alt="Status" />
-</p>
+  <!-- Banner con efecto typing dinámico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi%20there,%20I'm%20Francisco%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Java+%7C+HTML5+%2F+CSS3+%7C+Linux+%7C+Git;Full-Stack+Web+Developer+in+Progress..." alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="#-sobre-mí">Sobre mí</a> •
+    <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+    <a href="#-github-metrics">Estadísticas</a> •
+    <a href="#-proyectos-destacados">Proyectos</a>
+  </p>
+
+</div>
 ---
 
 ## 🚀 Sobre mí
