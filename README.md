@@ -1,33 +1,35 @@
 # Hi there, I'm Francisco 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desarrollador+Web+in+the+making...;Full+stack+enthusiast;Apasionado+del+c%C3%B3digo+limpio" alt="Typing SVG" />
+
+  <!-- Banner con efecto typing dinámico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi%20there,%20I'm%20Francisco%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Java+%7C+HTML5+%2F+CSS3+%7C+Linux+%7C+Git;Full-Stack+Web+Developer+in+Progress..." alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="#-sobre-mí">Sobre mí</a> •
+    <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+    <a href="#-github-metrics">Estadísticas</a> •
+    <a href="#-proyectos-destacados">Proyectos</a>
+  </p>
+
 </div>
 
 <br />
 
-## 🚀 Sobre mí
-
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** enfocado en construir software estructurado, eficiente y visualmente atractivo. Me apasiona resolver problemas mediante la lógica de programación, el diseño de bases de datos y la creación de experiencias web modernas.
-
-- 🎓 Estudiando **Desarrollo de Aplicaciones Web (DAW)**
-- 💻 Actualmente trabajando en proyectos de **Java, SQL, HTML5/CSS3 y Bash**
-- ⚡ Intereses: Desarrollo web full-stack, algoritmos en Java, administración de entornos Linux y arquitectura de software
-- 🎯 Objetivos: Seguir aprendiendo nuevas tecnologías y preparándome para el entorno profesional
-
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Sobre mí
 
-### Lenguajes & Maquetación
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
+```yaml
+desarrollador: Francisco
+estudios: Desarrollo de Aplicaciones Web (DAW)
+ubicacion: Málaga, España
+enfocado_en: Código limpio, algoritmos y maquetación web moderna
+herramienta_principal: VS Code & Linux Ubuntu Terminal
 
 ### Herramientas & Entornos
 <p>
