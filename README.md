@@ -2,9 +2,14 @@ Francisco Jiménez Orejuela
 <h1 align="center">Hello, I'm Francisco👋</h1>
 
 <div align="center">
-  <img src="https://svg-banners.mybluemix.net/api/v1/banners/1?theme=dark&title=Web%20Development%20%26%20Software&subtitle=Estudiante%20de%20DAW%20%7C%20Java%20%7C%20HTML5%2FCSS3%20%7C%20Linux" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&stroke=38BDF8&strokeWidth=2&height=160&section=header&text=Junior%20Web%20Developer&fontSize=38&fontColor=38BDF8&animation=twinkle" width="100%" />
 
-  <br><br>
+  <br>
+
+  <p align="center">
+    <b>Estudiante de Desarrollo de Aplicaciones Web (DAW)</b><br>
+    <i>Creando código limpio, estructurado y enfocado a soluciones reales</i>
+  </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Estudiante-DAW-38BDF8?style=for-the-badge" alt="DAW" />
@@ -12,7 +17,6 @@ Francisco Jiménez Orejuela
     <img src="https://img.shields.io/badge/Status-Open_to_learn-2EA043?style=for-the-badge" alt="Status" />
   </p>
 </div>
-
 
 ## 🚀 Sobre mí
 
