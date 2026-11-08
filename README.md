@@ -1,37 +1,47 @@
 # Hi there, I'm Francisco 👋
+<h1 align="center">Hi there, I'm Francisco 👋</h1>
 
-<div align="center">
+<p align="center">
+  <b>Estudiante de Desarrollo de Aplicaciones Web (DAW)</b><br>
+  <i>Apasionado por la programación, el código limpio y el desarrollo web</i>
+</p>
 
-  <!-- Banner con efecto typing dinámico -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi%20there,%20I'm%20Francisco%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Java+%7C+HTML5+%2F+CSS3+%7C+Linux+%7C+Git;Full-Stack+Web+Developer+in+Progress..." alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="#-sobre-mí">Sobre mí</a> •
-    <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
-    <a href="#-github-metrics">Estadísticas</a> •
-    <a href="#-proyectos-destacados">Proyectos</a>
-  </p>
-
-</div>
-
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-DAW-38BDF8?style=for-the-badge" alt="DAW" />
+  <img src="https://img.shields.io/badge/Ubicación-Málaga-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Málaga" />
+  <img src="https://img.shields.io/badge/Status-Open_to_learn-2EA043?style=for-the-badge" alt="Status" />
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-```yaml
-desarrollador: Francisco
-estudios: Desarrollo de Aplicaciones Web (DAW)
-ubicacion: Málaga, España
-enfocado en: Código limpio, algoritmos y maquetación web moderna
-herramienta principal: VS Code , Java & Linux Ubuntu Terminal
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)** enfocado en aprender y aplicar buenas prácticas de desarrollo software.
 
-### Herramientas & Entornos
+- 🎓 **Formación:** Grado Superior en Desarrollo de Aplicaciones Web (DAW).
+- 💻 **Stack principal:** Algoritmos en Java, bases de datos SQL, maquetación HTML5/CSS3 y scripting en Bash.
+- 🐧 **Entorno de trabajo:** Administración de sistemas y control de versiones en **Linux Ubuntu** con **Git/GitHub**.
+- 🎯 **Objetivos:** Prepararme para el entorno profesional y construir proyectos full-stack limpios y funcionales.
+
+---
+
+## 🛠️ Tech Stack
+
+### Lenguajes & Maquetación
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Base de Datos & Scripting
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+### Herramientas & Entorno
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -41,28 +51,24 @@ herramienta principal: VS Code , Java & Linux Ubuntu Terminal
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fraancisjo10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraancisjo10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📌 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Java Core & Algoritmos](https://github.com/fraancisjo10/Java)** | Ejercicios prácticos de algoritmos, matrices, bucles y gestión de ficheros en Java. | `Java` `Algoritmos` `Matrices` |
-| **[Prácticas DAW Web](https://github.com/fraancisjo10)** | Maquetación web estructurada, semántica HTML5 y estilos modernos. | `HTML5` `CSS3` |
+| ☕ **[Java & Algoritmos](https://github.com/fraancisjo10/Java)** | Ejercicios y programas en Java sobre algoritmos, matrices y ficheros. | `Java` `Algoritmos` `Matrices` |
+| 🌐 **[Prácticas Web DAW](https://github.com/fraancisjo10)** | Proyectos y ejercicios de maquetación web con HTML5 y CSS3. | `HTML5` `CSS3` `Web` |
 
 ---
 
-## 📬 Contacto & Redes
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fraancisjo10&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraancisjo10&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
+</div>
+
+---
 
 <p align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <i>"El código es como la pintura: si lo fuerzas, se nota. Hazlo limpio y claro."</i>
 </p>
